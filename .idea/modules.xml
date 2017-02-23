@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CentaurEngine.iml" filepath="$PROJECT_DIR$/.idea/modules/CentaurEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CentaurEngine_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CentaurEngine_main.iml" group="CentaurEngine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CentaurEngine_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CentaurEngine_test.iml" group="CentaurEngine" />
+    </modules>
+  </component>
+</project>
